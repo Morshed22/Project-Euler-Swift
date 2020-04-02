@@ -10,6 +10,8 @@
 		03F9A6642435B19A00BD5CDA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F9A6632435B19A00BD5CDA /* main.swift */; };
 		03F9A66B2435B1CD00BD5CDA /* 01-Multiply.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F9A66A2435B1CD00BD5CDA /* 01-Multiply.swift */; };
 		03F9A66D2435BB9B00BD5CDA /* 02-Fibonacci.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F9A66C2435BB9B00BD5CDA /* 02-Fibonacci.swift */; };
+		03F9A66F243619FD00BD5CDA /* 03-MaxPrimeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F9A66E243619FD00BD5CDA /* 03-MaxPrimeNumber.swift */; };
+		03F9A6712436353900BD5CDA /* 04-LargestPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F9A6702436353900BD5CDA /* 04-LargestPalindrome.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +31,8 @@
 		03F9A6632435B19A00BD5CDA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		03F9A66A2435B1CD00BD5CDA /* 01-Multiply.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "01-Multiply.swift"; sourceTree = "<group>"; };
 		03F9A66C2435BB9B00BD5CDA /* 02-Fibonacci.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "02-Fibonacci.swift"; sourceTree = "<group>"; };
+		03F9A66E243619FD00BD5CDA /* 03-MaxPrimeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "03-MaxPrimeNumber.swift"; sourceTree = "<group>"; };
+		03F9A6702436353900BD5CDA /* 04-LargestPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "04-LargestPalindrome.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,8 @@
 				03F9A6632435B19A00BD5CDA /* main.swift */,
 				03F9A66A2435B1CD00BD5CDA /* 01-Multiply.swift */,
 				03F9A66C2435BB9B00BD5CDA /* 02-Fibonacci.swift */,
+				03F9A66E243619FD00BD5CDA /* 03-MaxPrimeNumber.swift */,
+				03F9A6702436353900BD5CDA /* 04-LargestPalindrome.swift */,
 			);
 			path = "Project-Euler";
 			sourceTree = "<group>";
@@ -128,6 +134,8 @@
 			files = (
 				03F9A66B2435B1CD00BD5CDA /* 01-Multiply.swift in Sources */,
 				03F9A6642435B19A00BD5CDA /* main.swift in Sources */,
+				03F9A6712436353900BD5CDA /* 04-LargestPalindrome.swift in Sources */,
+				03F9A66F243619FD00BD5CDA /* 03-MaxPrimeNumber.swift in Sources */,
 				03F9A66D2435BB9B00BD5CDA /* 02-Fibonacci.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

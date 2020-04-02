@@ -10,4 +10,9 @@ import Foundation
 
 //print("Hello, World!")
 
-fibonacci(n: 4000000)
+//fibonacci(n: 4000000)
+
+//print(generatePrimes(to: 600851475143))
+
+//maxPrimeNumber(value:600851475143)
+findPalindromeNumber()
