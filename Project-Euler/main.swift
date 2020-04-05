@@ -15,4 +15,7 @@ import Foundation
 //print(generatePrimes(to: 600851475143))
 
 //maxPrimeNumber(value:600851475143)
-findPalindromeNumber()
+//findPalindromeNumber()
+//smallestMultiple()
+//SumDifference(n: 100)
+getPrimeNumber(in:10)

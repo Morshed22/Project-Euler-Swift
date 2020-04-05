@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		03F484842438514500719DD2 /* 05-SmallestMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F484832438514500719DD2 /* 05-SmallestMultiple.swift */; };
+		03F4848624386F7100719DD2 /* 06-SumSquareDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F4848524386F7100719DD2 /* 06-SumSquareDifference.swift */; };
+		03F484882438A41F00719DD2 /* 07-PrimeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F484872438A41F00719DD2 /* 07-PrimeNumber.swift */; };
 		03F9A6642435B19A00BD5CDA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F9A6632435B19A00BD5CDA /* main.swift */; };
 		03F9A66B2435B1CD00BD5CDA /* 01-Multiply.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F9A66A2435B1CD00BD5CDA /* 01-Multiply.swift */; };
 		03F9A66D2435BB9B00BD5CDA /* 02-Fibonacci.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F9A66C2435BB9B00BD5CDA /* 02-Fibonacci.swift */; };
@@ -27,6 +30,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		03F484832438514500719DD2 /* 05-SmallestMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "05-SmallestMultiple.swift"; sourceTree = "<group>"; };
+		03F4848524386F7100719DD2 /* 06-SumSquareDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "06-SumSquareDifference.swift"; sourceTree = "<group>"; };
+		03F484872438A41F00719DD2 /* 07-PrimeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "07-PrimeNumber.swift"; sourceTree = "<group>"; };
 		03F9A6602435B19A00BD5CDA /* Project-Euler */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Project-Euler"; sourceTree = BUILT_PRODUCTS_DIR; };
 		03F9A6632435B19A00BD5CDA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		03F9A66A2435B1CD00BD5CDA /* 01-Multiply.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "01-Multiply.swift"; sourceTree = "<group>"; };
@@ -70,6 +76,9 @@
 				03F9A66C2435BB9B00BD5CDA /* 02-Fibonacci.swift */,
 				03F9A66E243619FD00BD5CDA /* 03-MaxPrimeNumber.swift */,
 				03F9A6702436353900BD5CDA /* 04-LargestPalindrome.swift */,
+				03F484832438514500719DD2 /* 05-SmallestMultiple.swift */,
+				03F4848524386F7100719DD2 /* 06-SumSquareDifference.swift */,
+				03F484872438A41F00719DD2 /* 07-PrimeNumber.swift */,
 			);
 			path = "Project-Euler";
 			sourceTree = "<group>";
@@ -132,7 +141,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03F4848624386F7100719DD2 /* 06-SumSquareDifference.swift in Sources */,
+				03F484882438A41F00719DD2 /* 07-PrimeNumber.swift in Sources */,
 				03F9A66B2435B1CD00BD5CDA /* 01-Multiply.swift in Sources */,
+				03F484842438514500719DD2 /* 05-SmallestMultiple.swift in Sources */,
 				03F9A6642435B19A00BD5CDA /* main.swift in Sources */,
 				03F9A6712436353900BD5CDA /* 04-LargestPalindrome.swift in Sources */,
 				03F9A66F243619FD00BD5CDA /* 03-MaxPrimeNumber.swift in Sources */,
