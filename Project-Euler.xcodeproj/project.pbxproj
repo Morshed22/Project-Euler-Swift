@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		034234EC243BD06100320F6D /* 08-LargestProductInSeries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 034234EB243BD06100320F6D /* 08-LargestProductInSeries.swift */; };
 		03F484842438514500719DD2 /* 05-SmallestMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F484832438514500719DD2 /* 05-SmallestMultiple.swift */; };
 		03F4848624386F7100719DD2 /* 06-SumSquareDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F4848524386F7100719DD2 /* 06-SumSquareDifference.swift */; };
 		03F484882438A41F00719DD2 /* 07-PrimeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F484872438A41F00719DD2 /* 07-PrimeNumber.swift */; };
@@ -30,6 +31,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		034234EB243BD06100320F6D /* 08-LargestProductInSeries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "08-LargestProductInSeries.swift"; sourceTree = "<group>"; };
 		03F484832438514500719DD2 /* 05-SmallestMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "05-SmallestMultiple.swift"; sourceTree = "<group>"; };
 		03F4848524386F7100719DD2 /* 06-SumSquareDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "06-SumSquareDifference.swift"; sourceTree = "<group>"; };
 		03F484872438A41F00719DD2 /* 07-PrimeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "07-PrimeNumber.swift"; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				03F484832438514500719DD2 /* 05-SmallestMultiple.swift */,
 				03F4848524386F7100719DD2 /* 06-SumSquareDifference.swift */,
 				03F484872438A41F00719DD2 /* 07-PrimeNumber.swift */,
+				034234EB243BD06100320F6D /* 08-LargestProductInSeries.swift */,
 			);
 			path = "Project-Euler";
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				03F4848624386F7100719DD2 /* 06-SumSquareDifference.swift in Sources */,
 				03F484882438A41F00719DD2 /* 07-PrimeNumber.swift in Sources */,
 				03F9A66B2435B1CD00BD5CDA /* 01-Multiply.swift in Sources */,
+				034234EC243BD06100320F6D /* 08-LargestProductInSeries.swift in Sources */,
 				03F484842438514500719DD2 /* 05-SmallestMultiple.swift in Sources */,
 				03F9A6642435B19A00BD5CDA /* main.swift in Sources */,
 				03F9A6712436353900BD5CDA /* 04-LargestPalindrome.swift in Sources */,
